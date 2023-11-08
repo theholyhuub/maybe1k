@@ -1,2 +1,2 @@
 # maybe1k
-proving Tiebe wrong
+prove Tiebe wrong
